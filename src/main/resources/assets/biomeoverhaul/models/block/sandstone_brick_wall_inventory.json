@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "biomeoverhaul:block/sandstone_bricks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "biomeoverhaul:block/cactus_flower"
+  },
+  "render_type": "cutout"
+}

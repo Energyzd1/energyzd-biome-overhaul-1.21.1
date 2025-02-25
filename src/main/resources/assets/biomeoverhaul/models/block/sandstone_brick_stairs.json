@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "biomeoverhaul:block/sandstone_bricks",
+    "side": "biomeoverhaul:block/sandstone_bricks",
+    "top": "biomeoverhaul:block/sandstone_bricks"
+  }
+}
