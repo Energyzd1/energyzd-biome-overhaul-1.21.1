@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "biomeoverhaul:block/terracotta_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/terracotta"
+    },
+    "type=top": {
+      "model": "biomeoverhaul:block/terracotta_slab_top"
+    }
+  }
+}

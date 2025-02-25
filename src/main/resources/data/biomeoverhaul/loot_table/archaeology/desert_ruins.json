@@ -46,11 +46,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "biomeoverhaul:palm_sapling",
-          "weight": 2
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:name_tag",
           "weight": 2
         },

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "biomeoverhaul:sandstone_brick_wall"
+    "biomeoverhaul:sandstone_brick_wall",
+    "biomeoverhaul:red_sandstone_brick_wall"
   ]
 }
