@@ -1,0 +1,46 @@
+{
+  "values": {
+    "biomeoverhaul:palm_log": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_wood": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:stripped_palm_log": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:stripped_palm_wood": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_planks": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_stairs": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_slab": {
+      "burn_time": 150
+    },
+    "biomeoverhaul:palm_fence": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_fence_gate": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_door": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_trapdoor": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_pressure_plate": {
+      "burn_time": 300
+    },
+    "biomeoverhaul:palm_button": {
+      "burn_time": 100
+    },
+    "biomeoverhaul:dry_grass": {
+      "burn_time": 100
+    }
+  }
+}

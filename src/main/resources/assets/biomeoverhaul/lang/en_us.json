@@ -5,5 +5,24 @@
   "block.biomeoverhaul.palm_wood": "Palm Wood",
   "block.biomeoverhaul.stripped_palm_log": "Stripped Palm Log",
   "block.biomeoverhaul.stripped_palm_wood": "Stripped Palm Wood",
-  "block.biomeoverhaul.palm_planks": "Palm Planks"
+  "block.biomeoverhaul.palm_planks": "Palm Planks",
+  "block.biomeoverhaul.palm_stairs": "Palm Stairs",
+  "block.biomeoverhaul.palm_slab": "Palm Slab",
+  "block.biomeoverhaul.palm_fence": "Palm Fence",
+  "block.biomeoverhaul.palm_fence_gate": "Palm Fence Gate",
+  "block.biomeoverhaul.palm_door": "Palm Door",
+  "block.biomeoverhaul.palm_trapdoor": "Palm Trapdoor",
+  "block.biomeoverhaul.palm_pressure_plate": "Palm Pressure Plate",
+  "block.biomeoverhaul.palm_button": "Palm Button",
+  "block.biomeoverhaul.barrel_cactus": "Barrel Cactus",
+  "block.biomeoverhaul.sandstone_bricks": "Sandstone Bricks",
+  "block.biomeoverhaul.sandstone_brick_stairs": "Sandstone Brick Stairs",
+  "block.biomeoverhaul.sandstone_brick_slab": "Sandstone Brick Slab",
+  "block.biomeoverhaul.sandstone_brick_wall": "Sandstone Brick Wall",
+  "block.biomeoverhaul.beach_grass": "Beach Grass",
+  "block.biomeoverhaul.dry_grass": "Dry Grass",
+  "block.biomeoverhaul.cactus_flower": "Cactus Flower",
+
+
+  "creativetab.biomeoverhaul.biomeoverhaul": "Biome Overhaul"
 }

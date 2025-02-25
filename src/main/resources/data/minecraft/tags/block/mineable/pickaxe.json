@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biomeoverhaul:sandstone_bricks",
+    "biomeoverhaul:sandstone_brick_stairs",
+    "biomeoverhaul:sandstone_brick_slab",
+    "biomeoverhaul:sandstone_brick_wall"
+  ]
+}

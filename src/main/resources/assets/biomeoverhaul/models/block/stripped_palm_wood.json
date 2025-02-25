@@ -1,6 +1,7 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "biomeoverhaul:block/stripped_palm_log"
+    "end": "biomeoverhaul:block/stripped_palm_log",
+    "side": "biomeoverhaul:block/stripped_palm_log"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomeoverhaul:palm_planks",
+    "biomeoverhaul:palm_log",
+    "biomeoverhaul:palm_wood",
+    "biomeoverhaul:stripped_palm_log",
+    "biomeoverhaul:stripped_palm_wood"
+  ]
+}

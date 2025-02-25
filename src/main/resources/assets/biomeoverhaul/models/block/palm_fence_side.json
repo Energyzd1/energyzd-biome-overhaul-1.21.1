@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "biomeoverhaul:block/palm_planks"
+  }
+}

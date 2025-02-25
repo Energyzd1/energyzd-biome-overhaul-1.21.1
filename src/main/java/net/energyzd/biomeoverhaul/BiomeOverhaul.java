@@ -1,6 +1,7 @@
 package net.energyzd.biomeoverhaul;
 
 import net.energyzd.biomeoverhaul.block.ModBlocks;
+import net.energyzd.biomeoverhaul.item.ModCreativeModeTabs;
 import net.energyzd.biomeoverhaul.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -36,6 +37,8 @@ public class BiomeOverhaul {
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -52,17 +55,7 @@ public class BiomeOverhaul {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.EXAMPLE);
-        }
 
-        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
-            event.accept(ModBlocks.PALM_LOG);
-            event.accept(ModBlocks.PALM_WOOD);
-            event.accept(ModBlocks.STRIPPED_PALM_LOG);
-            event.accept(ModBlocks.STRIPPED_PALM_WOOD);
-            event.accept(ModBlocks.PALM_PLANKS);
-        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
